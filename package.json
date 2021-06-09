@@ -1,5 +1,5 @@
 {
-  "name": "@kiti/local-logger",
+  "name": "kiti-local-logger",
   "version": "1.0.0",
   "description": "Node, React and React Native local logger",
   "main": "bundle.js",
