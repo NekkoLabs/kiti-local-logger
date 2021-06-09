@@ -2,7 +2,7 @@
   "name": "@kiti/local-logger",
   "version": "1.0.0",
   "description": "Node, React and React Native local logger",
-  "main": "index.js",
+  "main": "bundle.js",
   "repository": "https://github.com/NekkoLabs/kiti-local-logger",
   "author": "Christian Storch <ccstorch@gmail.com>",
   "license": "MIT",
